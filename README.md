@@ -4,7 +4,7 @@ Todo List в своей классической реализации.
 
 <br/>
 <br/>
-<img width="1480" alt="Снимок экрана 2021-04-23 в 15 20 56" src="https://user-images.githubusercontent.com/64028251/115870799-6f7d1100-a448-11eb-8898-4572b2ec842f.png">
+<img width="850" alt="Снимок экрана 2021-04-23 в 15 20 56" src="https://user-images.githubusercontent.com/64028251/115870799-6f7d1100-a448-11eb-8898-4572b2ec842f.png">
 
 <br/>
 <br/>
