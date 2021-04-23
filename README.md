@@ -63,7 +63,7 @@ npm start
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-430098?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-ExpressJs-F7B93E?style=flat-square&logo=express&logoColor=white" />
-  <img alt="Material-UI" src="https://img.shields.io/badge/-Material-Ui-2088FF?style=flat-square&logo=materialui&logoColor=white" />
+  <img alt="Material/UI" src="https://img.shields.io/badge/-MaterialUi-2088FF?style=flat-square&logo=materialui&logoColor=white" />
 
 </p>
 
